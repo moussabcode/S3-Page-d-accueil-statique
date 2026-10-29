@@ -1,0 +1,16 @@
+.carte-article {
+    width:300px;
+    border:2px solid black;
+    background:rgb(201, 194, 194);
+    border-radius:15px;
+    overflow:hidden;
+    margin-bottom:24px;
+}
+.carte-image {
+    display:block;
+}
+.carte-image img {
+    height:220px;
+    width:100%;
+    object-fit:cover;
+}
