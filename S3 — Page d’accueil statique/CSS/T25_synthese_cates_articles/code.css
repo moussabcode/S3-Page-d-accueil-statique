@@ -1,0 +1,20 @@
+.banniere-accueil {
+    padding:96px 24px;
+    text-align:center;
+    background:#ffffff;
+    background-image:radial-gradient(#e5e7eb 1px,transparent 1px); 
+    background-size:24px 24px;
+}
+
+.banniere-accueil h1{
+    margin:0 auto;
+    max-width:850px;
+    font-size:56px;
+    color:#0a2042;
+}
+.banniere-accueil p{
+    max-width:680px;
+    margin: 24px auto 0;
+    font-size:17px;
+    
+}
