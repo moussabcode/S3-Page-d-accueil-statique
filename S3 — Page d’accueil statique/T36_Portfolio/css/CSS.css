@@ -82,7 +82,7 @@ a {
 h2 {
     display:block;
     text-align:center;
-    color:rgb(50, 50, 227);
+    color:rgb(219, 219, 241);
     font-style:italic;
     padding-left:10px;
     margin:20px;
@@ -94,8 +94,7 @@ h2 {
 
 
 .presente {
-    display:block;
-    width:50%;
+    display:flex;
     line-height:50px;
     font-family:Arial, Helvetica, sans-serif;
     font-size:18px;
@@ -106,12 +105,18 @@ h2 {
     border-radius:15px;
     background:rgb(141, 182, 203);
     margin-left:20px;
+    width:80%;
+    margin:auto;
 }
 .presente h2 {
     margin-top:-30px;
 }
 .presente strong {
     color:blue;
+}
+.presente img {
+    width:50%;
+    border-radius:15px;
 }
 
 /*projets*/
@@ -128,7 +133,7 @@ h2 {
     padding:5px;
     line-height:30px;
     font-size:21px;
-    color:rgb(118, 118, 122);
+    color:rgb(59, 59, 157);
     background:rgb(248, 246, 246);
 }
 h3 {
@@ -163,13 +168,14 @@ h3 {
     line-height:30px;
     font-size:20px;
     color:#494a51;
+    background:rgb(33, 110, 243);
 }
 .liste-compétences strong {
     display:block;
     text-align:center;
     border-radius:15px;
     border:1px solid blue;
-    background:#9faef8;
+    background:#d7d8df;
     color:blue;
 }
 
@@ -192,4 +198,12 @@ h3 {
 }
 .footer strong{
     color:blue;
+}
+main {
+    margin: 10px;
+    border:2px solid blue;
+    border-radius:15px;
+    padding:10px 10px;
+    background:rgb(29, 29, 144);
+    max-width:100%;
 }
