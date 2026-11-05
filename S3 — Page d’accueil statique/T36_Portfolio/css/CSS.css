@@ -105,7 +105,7 @@ h2 {
     border:1px solid black;
     border-radius:15px;
     background:rgb(141, 182, 203);
-    margin-left:20px;
+    margin-left:40px;
     width:80%;
     margin:auto;
 }
@@ -135,7 +135,7 @@ h2 {
     line-height:30px;
     font-size:21px;
     color:rgb(59, 59, 157);
-    background:rgb(248, 246, 246);
+    background:rgb(241, 239, 239);
 }
 h3 {
     display:block;
@@ -168,8 +168,8 @@ h3 {
     height:200px;
     line-height:30px;
     font-size:20px;
-    color:#494a51;
-    background:rgb(33, 110, 243);
+    color:#31313a;
+    background:rgb(130, 140, 158);
 }
 .liste-compétences strong {
     display:block;
@@ -205,7 +205,7 @@ main {
     border:2px solid blue;
     border-radius:15px;
     padding:10px 10px;
-    background:rgb(29, 29, 144);
+    background:rgb(46, 46, 68);
     max-width:100%;
     padding-right:40px;
 }
