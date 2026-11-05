@@ -77,14 +77,17 @@ main {
 .dif {
     margin:80px 30px 100px 30px;
     line-height:40px;
+    border-top:1px solid black;
 }
 .aim {
     margin:10px 30px 100px 30px;
     line-height:40px;
+    border-top:1px solid black;
 }
 .details {
     margin:10px 30px 100px 30px;
     line-height:40px;
+    border-top:1px solid black;
 }
 .details ul {
     width:80%;
